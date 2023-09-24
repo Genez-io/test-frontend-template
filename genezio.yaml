@@ -1,0 +1,5 @@
+name: genezio-placeholder-project-name
+region: us-east-1
+frontend:
+  path: .
+  subdomain: genezio-placeholder-subdomain
